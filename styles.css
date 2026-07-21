@@ -1,0 +1,110 @@
+* {
+   font-family: "Montserrat", sans-serif;
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   background-color: #ffffff;
+}
+
+header {
+margin: 15px 0 25px  76px;
+}
+
+.link-header {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: #530186;
+    cursor: pointer;
+    margin-right: 13px;
+}
+
+ .button-header { 
+  background: #530186;
+  border-radius: 20px;
+  width: 130px;
+  height: 40px;
+  border: none;
+  font-size: 24px;
+  font-weight: 600px;
+  color: rgb(218, 207, 207);
+  cursor: pointer;
+  margin-left: 30px;
+} 
+
+
+
+
+h1 {
+    font-size: 70px;
+    font-weight: 900;
+    line-height: 122px;
+    color: #515151;
+}
+
+h2 {
+    font-size: 58px;
+    font-weight: 500;
+    line-height: 71px;
+    color: #515151;
+}
+
+p {
+    font-size: 24px;
+    font-weight:
+    400;
+    line-height: 29px;
+    color: #515151;
+    width: 515px;
+}
+
+
+
+img {
+    width: 568px;
+    height: 500px;
+    margin-left: 100px;
+    display: inline-block;
+    
+}
+
+section {
+    display: inline-block;
+    margin-left: 86px;
+}
+
+.button-main {
+    background: #530186;
+    border-radius: 30px;
+    width: 239px;
+    height: 64px;
+    border: none;
+    cursor: pointer;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 34px;
+    color: #000000;
+  margin-top: 10px;
+}
+
+.button-header,
+.button-main {
+  transition:
+    transform 0.3s ease,
+    box-shadow 0.3s ease,
+    background-color 0.3s ease;
+}
+
+.button-header:hover,
+.button-main:hover {
+  background-color: #6f10a8;
+  transform: translateY(-4px) scale(1.03);
+  box-shadow: 0 8px 18px rgba(83, 1, 134, 0.35);
+  color: #ffffff;
+}
+
+.button-header:active,
+.button-main:active {
+  transform: translateY(0) scale(0.97);
+
+}
