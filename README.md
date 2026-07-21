@@ -38,7 +38,7 @@ we-care-pet/
 
 ## 🔗 Links
 
-- [Visualizar projeto online](https://aleblack25.github.io/we-care-pet/)
+- [Visualizar projeto online]()
 - [Código no GitHub](https://github.com/aleblack25/we-care-pet)
 
 ## 👨‍💻 Autor
