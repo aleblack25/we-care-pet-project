@@ -39,7 +39,12 @@ we-care-pet/
 ## 🔗 Links
 
 - [Visualizar projeto online](https://aleblack25.github.io/we-care-pet-project/)
+<<<<<<< HEAD
 - [Código no GitHub](https://github.com/aleblack25/we-care-pet-project)
+=======
+- [Código no GitHub](https://github.com/aleblack25/we-care-pet)
+
+>>>>>>> 24456002d5da89a0b22428693bee618092d6cbda
 ## 👨‍💻 Autor
 
 Desenvolvido por **Alexandre Costa**.
